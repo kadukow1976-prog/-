@@ -35,7 +35,7 @@
 
   <script>
     // 1) URL вашего Apps Script веб-приложения (из «Развернуть → Веб-приложение»)
-    const WEBAPP = 'ВСТАВЬТЕ_СЮДА_WEB_APP_URL_из_Apps_Script'; // пример: https://script.google.com/macros/s/AKfycb.../exec
+    const WEBAPP = 'https://kadukow1976-prog.github.io/shobo-prices/'; // пример: https://script.google.com/macros/s/AKfycb.../exec
 
     // 2) Список доступных файлов (alias должен совпадать с APP.FILES в Code.gs)
     const FILES = [
